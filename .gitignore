@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dil_secimi.txt
+build/
+dist/
+*.spec
